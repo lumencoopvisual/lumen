@@ -34,6 +34,6 @@
 
 .App-mail {
 
-  font-size: 5vmin;
+  font-size: calc(1em + 2vmin);
 
 }
